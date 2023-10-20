@@ -1,6 +1,6 @@
-        <footer>
-            <a href="http://www.RentalBuku.com">RentalBuku</a>
-        </footer>
-    </div>
+    <footer>
+        <a href=”http://www.RentalBuku.com”>Maudy Ayunda</a>
+    </footer>
+ </div>
 </body>
 </html>

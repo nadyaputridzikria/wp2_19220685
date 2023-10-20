@@ -2,8 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Web Prog II | Merancang Template sederhana dengan 
-codeigniter</title>
+    <title>Web Prog II | Merancang Template sederhana dengan codeigniter</title>
     <link rel="stylesheet" type="text/css" href="<?php echo 
 base_url() ?>assets/css/stylebuku.css">
 </head>
@@ -11,17 +10,16 @@ base_url() ?>assets/css/stylebuku.css">
     <div id="wrapper">
         <header>
             <hgroup>
-                <h1>RentalBuku.net</h1>
-                <h3>Membuat Template Sederhana dengan 
-CodeIgniter</h3>
+                <h1>Maudy Ayunda</h1>
+                <h3>Motivasi hidup dan latar belakang</h3>
             </hgroup>
             <nav>
                 <ul>
                     <li><a href="<?php echo 
-base_url().'index.php/web' ?>">Home</a></li>
+base_url().'index.php/web'?>">Home</a></li>
                     <li><a href="<?php echo 
-base_url().'index.php/web/about' ?>">About</a></li>
+base_url().'index.php/web/about'?>">About</a></li>
                 </ul>
             </nav>
-    <div class="clear"></div>
- </header>
+    <div class=”clear”></div>
+    </header>
